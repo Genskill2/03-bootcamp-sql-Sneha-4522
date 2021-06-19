@@ -1,4 +1,3 @@
-
 -- ## Deleting
 -- ### Delete all Science Fiction
 -- Write a file called `delete1.sql` that contains a SQL statement to
