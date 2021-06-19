@@ -1,3 +1,4 @@
+
 -- ### All books on Technology or Politics
 -- Creating a file called `query3.sql` which will contain a query that
 -- will print the names of all the books on "Technology" or
