@@ -22,3 +22,4 @@ subject integer not null,
 foreign key (book) references books(id),
 foreign key (subject) references subjects(id)
 );
+
