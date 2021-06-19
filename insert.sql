@@ -1,4 +1,3 @@
-
 -- Inserting publishers and countries ( publishers table is filled )
 
 insert into publisher(name, country) values("PHI", "India");
