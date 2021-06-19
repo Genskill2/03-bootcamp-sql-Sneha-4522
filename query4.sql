@@ -1,4 +1,3 @@
-
 -- ### All books on Technology
 -- Create a file called `query4.sql` which will contain a query that will
 -- print all the subjects of the book with name "Atomic Habits".
